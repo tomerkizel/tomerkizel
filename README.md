@@ -11,7 +11,6 @@
 - [LinkedIn](https://www.linkedin.com/in/tomer-kizel-a49193172/ "LinkedIn")
 - [Facebook](https://www.facebook.com/tomer.kizel "Facebook")
 
-<br />
 
 #### Languages and tool:
 
