@@ -30,9 +30,10 @@
 <img align="left" alt="Swift" width="25px" src="https://w7.pngwing.com/pngs/915/948/png-transparent-swift-programming-language-computer-programming-macos-ruby-computer-logo-computer-program-thumbnail.png"/>
 <img align="left" alt="SwiftUI" width="25px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">
 <img align="left" alt="C" width="25px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"/> 
-<img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png"/>
-<img align="left" alt="HTML" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
+
+<img align="left" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
 <img align="left" alt="CSS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png"/>
+<img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png"/>
 
 
 <br />
