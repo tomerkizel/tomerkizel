@@ -7,7 +7,7 @@
 <br />
 
 ### Contact me: 
-<img align="left" alt="XCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png" />(https://www.linkedin.com/in/tomer-kizel-a49193172/ "Tomer Kizel")
+<img align="left" alt="XCode" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1024px-Linkedin.svg.png" />[LinkedIn](https://www.linkedin.com/in/tomer-kizel-a49193172/ "Tomer Kizel")
 
 <br />
 
