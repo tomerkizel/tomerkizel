@@ -5,16 +5,16 @@
 
 <br />
 
-- I שצcurrently working on a traveling app ["Don't Be A Stranger"](https://www.donotbeastranger.com/ "Don't Be A Stranger") :iphone:
+- I am currently working on a traveling app ["Don't Be A Stranger"](https://www.donotbeastranger.com/ "Don't Be A Stranger") :iphone:
 - I am a second year Computer Science (B.Sc) student in The Academic College of Tel Aviv Yaffo :mortar_board:
 - I love traveling :airplane: , learning :pencil2: , playing the piano :musical_keyboard: and gaming :video_game: !
 - I am looking for a student position as a Software Developer to enhance my skills and bring my knowledge to the next level :bulb:
 
 <br />
-<br />
 
-### Contact me: 
-[LinkedIn](https://www.linkedin.com/in/tomer-kizel-a49193172/ "Tomer Kizel")
+## Contact me: 
+-[LinkedIn](https://www.linkedin.com/in/tomer-kizel-a49193172/ "LinkedIn")
+-[Facebook](https://www.facebook.com/tomer.kizel "Facebook")
 
 <br />
 
