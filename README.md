@@ -1,13 +1,13 @@
 ## Hello, my name is Tomer Kizel 
 
-### I am a second year Computer Science (B.Sc) student in The Academic College of Tel Aviv Yaffo
+:mortar_board: I am a second year Computer Science (B.Sc) student in The Academic College of Tel Aviv Yaffo
 
-- :bulb: I am currently looking for a student position as a Software Developer to enhance my skills and bring my knowledge to the next level
+:bulb: I am currently looking for a student position as a Software Developer to enhance my skills and bring my knowledge to the next level
 <br />
 <br />
 
 ### Contact me: 
-<img align="left" alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" [linkedin]/>
+<img align="left" alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/600px-Linkedin.svg.png" />(https://www.linkedin.com/in/tomer-kizel-a49193172/)
 
 <br />
 
@@ -26,5 +26,3 @@
 
 <br />
 <br />
-
-[linkedin]: https://www.linkedin.com/in/tomer-kizel-a49193172/
