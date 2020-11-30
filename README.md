@@ -2,7 +2,6 @@
 
 ### my name is Tomer Kizel 
 
-- I am currently working on a traveling app for ["Hynt"](https://www.thehynt.com/ "Hynt") :iphone:
 - I am a second year Computer Science (B.Sc) student in The Academic College of Tel Aviv Yaffo :mortar_board:
 - I love traveling :airplane: , learning :pencil2: , playing the piano :musical_keyboard: and gaming :video_game: !
 - I am looking for a student position as a Software Developer to enhance my skills and bring my knowledge to the next level :bulb:
